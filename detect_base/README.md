@@ -1,7 +1,7 @@
 ## build detectbase container
 ---
 
-builds a base image to be used by other image detectors <br>
+builds a base image to be used by other image detectors, compatible with yolov7 <br>
 **make sure you have a local docker registry running!**<br>
 to create a local registry run 
 
